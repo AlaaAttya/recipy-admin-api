@@ -1,0 +1,10 @@
+hash: ea5245ddd9987cc4ece473aac22f3c0bb3a2592fc4f7423b031bcd31b4befea0
+updated: 2017-11-14T20:58:03.036629691+02:00
+imports:
+- name: github.com/gin-gonic/gin
+  version: d459835d2b077e44f7c9b453505ee29881d5d12d
+- name: github.com/go-bongo/bongo
+  version: 58e3a1fbb5ea15dde8675b60becb2a9950e70164
+- name: github.com/spf13/viper
+  version: 25b30aa063fc18e48662b86996252eabdcf2f0c7
+testImports: []

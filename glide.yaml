@@ -1,0 +1,8 @@
+package: github.com/alaaattya/recipy-admin-api
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.2
+- package: github.com/go-bongo/bongo
+  version: v0.10.4
+- package: github.com/spf13/viper
+  version: v1.0.0
