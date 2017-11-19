@@ -7,7 +7,6 @@ type Recipe struct {
 	bongo.DocumentBase `bson:",inline"`
 	Title              string
 	CategoryID         string
-	Gender             string
 	Description        string
 	CookingTime        int
 }
